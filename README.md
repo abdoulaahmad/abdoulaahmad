@@ -1,52 +1,24 @@
-<h1 align="center">👋 Hi, I'm Abdullahi Abba Ahmad</h1>
 
-<p align="center">
-  <b>🚀 Web3 | Full-Stack Developer | Software Engineering Student</b><br>
-  Building decentralized systems that make the future more open and accessible 🌐
-</p>
+#### 🔒 Features
+- Blockchain document issuance & verification  
+- AES-encrypted storage with distributed access  
+- Role-based access control & smart contract logic  
+- Emergency break-glass protocol for authorized overrides  
+- Full-stack Web3 integration (React + Node + Solidity)
 
----
+**Stack:** Solidity · Node.js · TypeScript · React (Vite) · Express.js · RocksDB · Azure Cloud  
 
-### 🧠 About Me
-> Passionate about **blockchain**, **backend systems**, and **developer tooling** — I love turning complex ideas into elegant, secure, and scalable applications.
-
-- 🎓 Software Engineering Student @ **Federal University Dutse**
-- 💼 Currently building at **Virtual Connekt**
-- 🌍 Exploring **Aptos**, **Sui**, **Polygon**, and **Ethereum ecosystems**
-- 🧰 Tech Stack:  
-  `Node.js` · `Vue.js` · `TypeScript` · `PHP` · `Laravel` · `MongoDB` · `Smart Contracts`
-
----
-
-### 💻 Featured Projects
-
-<details open>
-<summary><b>🗳️ Merkpoll — On-Chain Voting with Merkle Proofs</b></summary>
-
-> A decentralized voting system using **Vue + Aptos Move**, featuring:
-> - 🧾 One-person-one-vote SBT system  
-> - 🌿 Merkle whitelist verification  
-> - 🔐 zkMe liveness integration  
-> - ⚙️ Gas-fee relayer wallet  
-
-[🔗 View Repo](https://github.com/abdoulaahmad/MerkPoll)
+[🔗 View Repo](https://github.com/abdoulaahmad/Transcrypt)
 </details>
 
 <details>
-<summary><b>💧 Polygon Faucet — Testnet Token Distributor</b></summary>
+<summary><b>📦 gaXport — Advanced Gas Fees Purchasing App</b></summary>
 
-> A **futuristic Web3 faucet** for distributing MATIC on Polygon Mumbai.  
-> Features a **glassmorphic UI**, wallet connect, and rate limits.
+> **gaXport** is an advanced **multi-chain gas fee purchasing platform**, allowing users to seamlessly buy and manage gas tokens across multiple blockchain networks.
 
-[🔗 View Repo](https://github.com/abdoulaahmad/polygon-faucet)
-</details>
+**Stack:** Vue · Node.js · TypeScript · Express.js  
 
-<details>
-<summary><b>⚙️ Bulk ETH Wallet Generator</b></summary>
-
-> A PHP-based tool that **automates bulk Ethereum wallet creation** with private key export and CSV support.
-
-[🔗 View Repo](https://github.com/abdoulaahmad/Bulk-ETH-Wallet-Generator)
+[🔗 View Repo](https://github.com/abdoulaahmad/gaXport)
 </details>
 
 <details>
@@ -62,7 +34,7 @@
 ### ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,typescript,nodejs,php,laravel,mongodb,python,solidity,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,typescript,nodejs,express,php,laravel,mongodb,mysql,solidity,git,linux,azure,vscode" />
 </p>
 
 ---
