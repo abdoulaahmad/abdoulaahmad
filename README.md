@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Abdullahi Abba Ahmad</h1>
 
 <p align="center">
-  <b>🚀 Web3 | Full-Stack Developer | Blockchain & Security Enthusiast</b><br>
+  <b>🚀 Web2 && Web3 | Full-Stack Developer | Blockchain </b><br>
   Building decentralized systems that make the future more open, secure, and accessible 🌐
 </p>
 
