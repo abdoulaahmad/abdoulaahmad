@@ -76,7 +76,7 @@ transcrypt/ ├── backend/ # Node.js/TypeScript backend API, encryption, key
 
 **Stack:** Solidity · Node.js · TypeScript · React (Vite) · Express.js · RocksDB · Azure Cloud
 
-[🔗 View Repo](https://github.com/abdoulaahmad/Transcrypt)
+[🔗 View Repo](https://github.com/abdoulaahmad/transcrypt2)
 </details>
 
 <details>
