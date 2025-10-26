@@ -86,7 +86,7 @@ transcrypt/ ├── backend/ # Node.js/TypeScript backend API, encryption, key
 
 **Stack:** Vue · Node.js · TypeScript · Express.js
 
-[🔗 View Repo](https://github.com/abdoulaahmad/gaXport)
+[🔗 View Repo](https://github.com/abdoulaahmad/gas-fee-appl)
 </details>
 
 <details>
@@ -102,7 +102,7 @@ A **Sui-based crypto payment system** built with Node.js + Vue, enabling simple 
 ### ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,typescript,nodejs,express,php,laravel,mongodb,mysql,solidity,git,linux,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,typescript,nodejs,express,php,laravel,mongodb,mysql,solidity,rocksdb,git,linux,azure,vscode" />
 </p>
 
 ---
