@@ -11,11 +11,10 @@
 > Passionate about **blockchain**, **backend systems**, and **secure data architectures** — I love turning complex ideas into elegant, scalable, and verifiable systems.
 
 - 🎓 Software Engineering Student @ **Federal University Dutse**
-- 💼 Building at **Virtual Connekt**
-- 🌍 Exploring **Aptos**, **Sui**, **Polygon**, and **Ethereum** ecosystems
+- 💼 Building at **Pyraxchain.com**
 - 🧰 Tech Stack:
-  - `Node.js` · `Vue.js` · `Next.js` · `Express.js` · `TypeScript` · `PHP` · `Laravel`
-  - `MongoDB` · `SQL` · `RocksDB` · `Aptos Move` · `Solidity` · `Smart Contracts` · `Azure Cloud`
+  - `Node.js` · `Rust` · `Next.js` · `Express.js` · `TypeScript` · `Go`
+  - `MongoDB` · `SQL` · `RocksDB` · `Move` · `Solidity` · `Smart Contracts` · `Azure Cloud`
 
 ---
 
