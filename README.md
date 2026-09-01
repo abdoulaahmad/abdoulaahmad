@@ -12,11 +12,6 @@
 - 🎓 Software Engineering Student @ **Federal University Dutse**
 - 💼 Building at **Pyraxchain.com**
 
----
-
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
