@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dark_mode.svg" width="100%" alt="Abdullahi Abba Ahmad's ASCII GitHub profile" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Abdullahi Abba Ahmad</h1>
 
 <p align="center">
